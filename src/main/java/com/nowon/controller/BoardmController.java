@@ -10,7 +10,6 @@ public class BoardmController {
 	public String signup01() {
 		return "layout/signup01";
 	}
-	
 	@GetMapping ("/signup02")
 	public String signup02() {
 		return "layout/signup02";
